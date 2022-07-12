@@ -3,4 +3,6 @@
 
 #include  <inttypes.h>
 
+void protype(void);
+
 #endif /* __MAIN_H__ */
