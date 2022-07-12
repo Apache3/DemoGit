@@ -3,7 +3,7 @@
 
 int main(void* argv, int arc) {
 	return 0;babababa
-}
+} babababababa
 void protype(void) {
 	int i = 0;
 	i++;
